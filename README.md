@@ -6,6 +6,8 @@ To run this program from your own machine, simply download the 3 files index.htm
 
 Roadmap of future improvements: Currently, the map fills up with about 20 vehicles that are sitting unused at a number of bus depots around Whatcom County. My first goal when optimizing this project is to dynamically add and remove vehicles from the map when they are between routes or out of service. Also, though the route numbers of each bus are visible by clicking on the marker, I would like to change this so that the marker itself is a visual indicator of the bus's route number. Finally, I intend to add functionality so that the user can pick a single bus line or bus stop, and see only the vehicles that service that line or stop.
 
+Note that this webpage currently only works on desktop - mobile accessibility is in the works!
+
 
 The MIT License
 Copyright 2022 Sam Dunlap <sdunlapwebdev@gmail.com>
